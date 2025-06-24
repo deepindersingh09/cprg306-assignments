@@ -9,7 +9,8 @@ export default function Page() {
         <li><Link href="/week-2" className="text-blue-500 underline">Go to Week 2</Link></li>
         <li><Link href="/week-3" className="text-blue-500 underline">Go to Week 3</Link></li>
         <li><Link href="/week-4" className="text-blue-500 underline">Go to Week 4</Link></li>
-        <li><Link href="/week-5" className="text-blue-500 underline">Go to Week 5</Link></li> {/* 👈 ADD THIS */}
+        <li><Link href="/week-5" className="text-blue-500 underline">Go to Week 5</Link></li> 
+        <li><Link href="/week-6" className="text-blue-500 underline">Go to Week 6</Link></li>
       </ul>
     </main>
   );
