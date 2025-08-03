@@ -14,6 +14,7 @@ export default function Page() {
         <li><Link href="/week-6" className="text-blue-500 underline">Go to Week 6</Link></li>
         <li><Link href="/week-7" className="text-blue-500 underline">Go to Week 7</Link></li>
         <li><Link href="/week-8" className="text-blue-500 underline">Go to Week 8</Link></li>
+        <li><Link href="/week-9" className="text-blue-500 underline">Go to Week 9</Link></li>
       </ul>
     </main>
   );
